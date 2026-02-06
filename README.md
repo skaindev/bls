@@ -1,2 +1,1 @@
-# bls-go
-BLS Library
+# bls-go library
